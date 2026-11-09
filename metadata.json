@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Yield Produksi",
+  "description": "Dashboard monitoring yield produksi pabrik real-time, responsif, terhubung Google Sheet dengan KPI, grafik tren, rekap tabel, dan TV display mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
